@@ -19,7 +19,8 @@
   "homepage": "https://github.com/lpi80/Zadanie_25#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
   },
   "devDependencies": {}
 }

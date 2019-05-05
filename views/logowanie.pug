@@ -1,0 +1,14 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='UTF-8')
+    title Logowanie do systemu
+  body
+    form(action='/userPanel', method='GET')
+      p
+        | First Name: 
+        input(type='text', name='first_name')
+      p
+        | Last Name: 
+        input(type='text', name='last_name')
+      input(type='submit', value='Submit')
