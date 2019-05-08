@@ -19,7 +19,10 @@
   "homepage": "https://github.com/lpi80/Zadanie_25#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "pug": "^2.0.3",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^2.0.0"
   },
   "devDependencies": {}
 }
